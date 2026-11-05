@@ -7,6 +7,7 @@ class TestApplication(unittest.TestCase):
         name = "VVCE"
         self.assertEqual(name, "VVCE")
         print("Hello")
+        print("vvce")
 
 
 if __name__ == "__main__":
