@@ -1,6 +1,6 @@
 print("Hello from Python Application")
 
-name="VVCE"
+name = "VVCE"
 
-print("Welcome to",name)
+print("Welcome to", name)
 print("Application executed successfully")
